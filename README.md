@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="left" alt="Coding" width="350" height="200" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ambrishshukla&label=Profile%20views&color=0e75b6&style=flat" alt="ambrishshukla" /> </p>
+<p align="left"> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=ambrishshukla&label=Profile%20views&color=0e75b6&style=flat" alt="ambrishshukla" /> </p>
 
 
 
-- 👨‍💻 All of my projects are available at [AmbrishShukla](AmbrishShukla)
+&nbsp;&nbsp;- 👨‍💻 All of my projects are available at [AmbrishShukla](AmbrishShukla)
 
-- 📫 How to reach me **ambrishshukla227@gmail.com**
+&nbsp;&nbsp;- 📫 How to reach me **ambrishshukla227@gmail.com**
 <br>
 <br>
 <br>
@@ -34,6 +34,6 @@
 <br>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambrishshukla&show_icons=true&locale=en" alt="ambrishshukla" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ambrishshukla&show_icons=true&locale=en" alt="ambrishshukla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambrishshukla&" alt="ambrishshukla" /></p>
